@@ -5,3 +5,5 @@ public class HelloWorld {
 }
 
 this is the process of jenkins
+
+  checking the automation
